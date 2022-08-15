@@ -24,6 +24,8 @@
 7. Исправляем ошибки, которые он выявил(включая warnings)
 8. Запускаем анализатор повторно - проверяем, что QG пройдены успешно
 9. Делаем скриншот успешного прохождения анализа, прикладываем к решению ДЗ
+<img width="1432" alt="Screen Shot 2022-08-16 at 00 32 05" src="https://user-images.githubusercontent.com/36231585/184722618-8279379f-9c78-412c-a03a-e6586bed142a.png">
+<img width="1426" alt="Screen Shot 2022-08-16 at 00 34 57" src="https://user-images.githubusercontent.com/36231585/184722632-b2387bf0-b4b1-4570-9cd4-b0b3a0d3bc31.png">
 
 ## Знакомство с Nexus
 
