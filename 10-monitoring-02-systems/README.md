@@ -32,6 +32,8 @@ PULL - централизованная конфигурация с единой
     - curl http://localhost:8086/ping
     - curl http://localhost:8888
     - curl http://localhost:9092/kapacitor/v1/ping
+    
+    
 
 А также скриншот веб-интерфейса ПО chronograf (`http://localhost:8888`). 
 
