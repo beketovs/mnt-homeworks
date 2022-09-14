@@ -109,6 +109,9 @@ vagrant@vagrant:~$ curl http://localhost:9092/kapacitor/v1/ping
 
 А также скриншот веб-интерфейса ПО chronograf (`http://localhost:8888`). 
 
+<img width="1295" alt="Screen Shot 2022-09-15 at 01 55 02" src="https://user-images.githubusercontent.com/36231585/190277116-6e045b24-69f2-4453-91ed-5b3a1186a990.png">
+
+
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
 
