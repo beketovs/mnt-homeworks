@@ -102,7 +102,7 @@ vagrant@vagrant:~$ curl http://localhost:9092/kapacitor/v1/ping
 < Content-Type: application/json; charset=utf-8
 < Request-Id: 9af33711-a80f-11eb-8033-000000000000
 < X-Kapacitor-Version: 1.3.3
-< Date: Wed, 28 Apr 2021 10:50:54 GMT
+< Date: Wed, 15 Sep 2022 23:56:27 GMT
 < 
 * Connection #0 to host localhost left intact
 ```
