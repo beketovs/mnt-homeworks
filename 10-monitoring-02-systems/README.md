@@ -127,6 +127,10 @@ P.S.: если при запуске некоторые контейнеры б�
 Для выполнения задания приведите скриншот с отображением метрик утилизации места на диске 
 (disk->host->telegraf_container_id) из веб-интерфейса.
 
+Не знаю почему, но у меня нет disk->host->telegraf_container_id . Я сделал график по CPU. Скрин:
+<img width="1280" alt="Screen Shot 2022-09-15 at 15 15 39" src="https://user-images.githubusercontent.com/36231585/190401367-dc3d1eff-3247-4d00-ba15-8f71a4f26b48.png">
+
+
 5. Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
 Добавьте в конфигурацию telegraf следующий плагин - [docker](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/docker):
 ```
