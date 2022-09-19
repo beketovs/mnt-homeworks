@@ -29,6 +29,10 @@
 
 Решение домашнего задания - скриншот веб-интерфейса grafana со списком подключенных Datasource.
 
+***
+<img width="1436" alt="Screen Shot 2022-09-20 at 02 40 51" src="https://user-images.githubusercontent.com/36231585/191137702-ed90bf2e-98f7-48ba-8f63-d341b841c488.png">
+***
+
 ## Задание 2
 Изучите самостоятельно ресурсы:
 - [promql-for-humans](https://timber.io/blog/promql-for-humans/#cpu-usage-by-instance)
