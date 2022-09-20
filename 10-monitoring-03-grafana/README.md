@@ -48,7 +48,8 @@
 Для решения данного ДЗ приведите promql запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
 
 ***
-![Screen Shot 2022-09-20 at 17 49 47](https://user-images.githubusercontent.com/36231585/191290717-ceaf999e-c734-44e2-9510-6c5dc47330d3.png)
+![Screen Shot 2022-09-20 at 18 10 39](https://user-images.githubusercontent.com/36231585/191296084-3b7f38e5-1083-4722-83f7-168325207822.png)
+
 
 - Утилизация CPU для nodeexporter (в процентах, 100-idle)
 ```
@@ -66,7 +67,7 @@ node_memory_MemFree_bytes/1000000000
 ```
 - Количество места на файловой системе
 ```
-node_filesystem_free_bytes/1000000000
+node_filesystem_avail_bytes{fstype!~"tmpfs|fuse.lxcfs|squashfs"} / node_filesystem_size_bytes{fstype!~"tmpfs|fuse.lxcfs|squashfs"}*100
 ```
 
 ***
