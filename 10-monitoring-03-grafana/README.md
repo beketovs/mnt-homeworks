@@ -47,6 +47,30 @@
 
 Для решения данного ДЗ приведите promql запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
 
+***
+![Screen Shot 2022-09-20 at 17 49 47](https://user-images.githubusercontent.com/36231585/191290717-ceaf999e-c734-44e2-9510-6c5dc47330d3.png)
+
+- Утилизация CPU для nodeexporter (в процентах, 100-idle)
+```
+100 * (1 - avg by(instance)(rate(node_cpu_seconds_total{mode='idle'}[5m])))
+```
+- CPULA 1/5/15
+```
+node_load1 * 100
+node_load5 * 100
+node_load15 * 100
+```
+- Количество свободной оперативной памяти
+```
+node_memory_MemFree_bytes/1000000000
+```
+- Количество места на файловой системе
+```
+node_filesystem_free_bytes/1000000000
+```
+
+***
+
 ## Задание 3
 Создайте для каждой Dashboard подходящее правило alert (можно обратиться к первой лекции в блоке "Мониторинг").
 
