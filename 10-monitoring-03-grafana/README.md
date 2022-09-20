@@ -57,9 +57,9 @@
 ```
 - CPULA 1/5/15
 ```
-node_load1 * 100
-node_load5 * 100
-node_load15 * 100
+node_load1
+node_load5
+node_load15
 ```
 - Количество свободной оперативной памяти
 ```
@@ -392,20 +392,20 @@ node_filesystem_avail_bytes{fstype!~"tmpfs|fuse.lxcfs|squashfs"} / node_filesyst
       "targets": [
         {
           "exemplar": false,
-          "expr": "node_load1 * 100",
+          "expr": "node_load1",
           "interval": "",
           "legendFormat": "CPU_LA1",
           "refId": "A"
         },
         {
-          "expr": "node_load5 * 100",
+          "expr": "node_load5",
           "hide": false,
           "interval": "",
           "legendFormat": "CPU_LA5",
           "refId": "B"
         },
         {
-          "expr": "node_load15  * 100",
+          "expr": "node_load15",
           "hide": false,
           "interval": "",
           "legendFormat": "CPU_LA15",
