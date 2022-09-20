@@ -77,6 +77,11 @@ node_filesystem_avail_bytes{fstype!~"tmpfs|fuse.lxcfs|squashfs"} / node_filesyst
 
 Для решения ДЗ - приведите скриншот вашей итоговой Dashboard.
 
+***
+<img width="1430" alt="Screen Shot 2022-09-20 at 22 53 50" src="https://user-images.githubusercontent.com/36231585/191352089-206a10b2-1405-4db9-83cb-418447aa24cb.png">
+
+***
+
 ## Задание 4
 Сохраните ваш Dashboard.
 
