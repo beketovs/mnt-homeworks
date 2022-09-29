@@ -64,4 +64,18 @@ Filebeat следует сконфигурировать для отправки
 
 ---
 
+***
+Задание 1
+
+<img width="1335" alt="Screen Shot 2022-09-29 at 15 00 27" src="https://user-images.githubusercontent.com/36231585/193014566-95f8fb22-8450-4468-97b2-53a9ccc37b3f.png">
+
+<img width="1437" alt="Screen Shot 2022-09-29 at 14 59 31" src="https://user-images.githubusercontent.com/36231585/193014588-cd6472ba-a65f-452b-b9a5-5985053bff14.png">
+
+ ***
  
+ ***
+ Задание 2
+ 
+ 
+ 
+ ***
