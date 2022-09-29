@@ -17,6 +17,13 @@ Free cloud account имеет следующие ограничения:
 
 Для выполнения задания - пришлите скриншот меню Projects.
 
+***
+
+<img width="1440" alt="Screen Shot 2022-09-30 at 01 15 40" src="https://user-images.githubusercontent.com/36231585/193147883-ad165a13-2aa2-4d5c-8f53-0d3d02e8ee90.png">
+
+
+***
+
 ## Задание 2
 
 Создайте python проект и нажмите `Generate sample event` для генерации тестового события.
@@ -27,6 +34,13 @@ Free cloud account имеет следующие ограничения:
 
 Для выполнения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта, 
 после нажатия `Resolved`.
+
+***
+
+<img width="1440" alt="Screen Shot 2022-09-30 at 01 26 49" src="https://user-images.githubusercontent.com/36231585/193147921-dddebc9f-0f6a-4a0f-95e2-684ab4ed2862.png">
+
+
+***
 
 ## Задание 3
 
@@ -47,6 +61,13 @@ Free cloud account имеет следующие ограничения:
 
 Дополнительно поэкспериментируйте с правилами алёртинга. 
 Выбирайте разные условия отправки и создавайте sample events. 
+
+***
+
+<img width="1431" alt="Screen Shot 2022-09-30 at 01 43 49" src="https://user-images.githubusercontent.com/36231585/193147970-8e5c5110-2774-4ba3-82a5-8a4ef610e7ec.png">
+
+
+***
 
 ## Задание повышенной сложности
 
