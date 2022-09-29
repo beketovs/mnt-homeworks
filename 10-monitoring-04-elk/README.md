@@ -76,6 +76,7 @@ Filebeat следует сконфигурировать для отправки
  ***
  Задание 2
  
- 
+ <img width="1437" alt="Screen Shot 2022-09-29 at 15 37 24" src="https://user-images.githubusercontent.com/36231585/193021766-280a4e6e-6a51-4ecf-a924-ca4c5d1e37a2.png">
+
  
  ***
